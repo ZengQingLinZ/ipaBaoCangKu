@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/新王者/WZ.ipa</string>
+					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/NewKing/WZ.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/新王者/logoiPhoneApp_60pt@2x.png</string>
+					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/NewKing/logoiPhoneApp_60pt@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/新王者/logostore_1024pt.png</string>
+					<string>https://gitee.com/zengqinglin/ipaBaoCangKu/raw/master/NewKing/logostore_1024pt.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
